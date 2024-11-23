@@ -55,17 +55,21 @@ body{
 }
 
 .contentA p{
-    text-align: right;
-    padding-left: 10%;
+    text-align: left;
+    padding-left: 0;
     font-size: 3vw;
     color: white;
     display: inline;
     font-style: oblique;
+
 }
 
 .contentB img{
-    padding: 10%;
+    width: 50%;
+    float: left;
+    padding: 0%;
     display: flex;
+    float: left;
 }
 
 .contentB p{
